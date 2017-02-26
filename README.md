@@ -1,0 +1,1 @@
+# MyStringLibraryInC
